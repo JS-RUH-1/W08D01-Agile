@@ -1,4 +1,4 @@
-## Create a file called answers.txt. Answer the following questions in answers.txt:
+## Answer the following questions in answers.txt:
  
 - Describe agility in your own words.
 
